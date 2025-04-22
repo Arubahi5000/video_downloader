@@ -75,7 +75,7 @@ Ensure your `songs.csv` is in the same directory as the script.
 ## 🧑‍💻 Author
 
 **Aryan Bahinipati**  
-[GitHub](https://github.com/yourusername)  
+[GitHub](https://github.com/Arubahi5000)  
 April 22, 2025
 
 ---
